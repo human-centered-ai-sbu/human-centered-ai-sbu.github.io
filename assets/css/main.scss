@@ -23,3 +23,43 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+// Override base typography for the course site
+body,
+button,
+input,
+select,
+textarea {
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+}
+
+:root {
+  --global-text-color: #333;
+}
+
+.footer-simple {
+  border-top: 1px solid var(--global-divider-color);
+  padding: 20px 0;
+  text-align: center;
+  color: var(--global-text-color);
+  background: transparent;
+  font-size: 0.9rem;
+}
+
+.navbar,
+.navbar .navbar-brand,
+.navbar .nav-link {
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+}
