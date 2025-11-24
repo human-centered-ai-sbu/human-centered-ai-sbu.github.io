@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://human-centered-ai-sbu.github.io/human-centered-ai-sbu/sitemap.xml
+Sitemap: https://human-centered-ai-sbu.github.io/sitemap.xml
