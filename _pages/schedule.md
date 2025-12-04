@@ -239,14 +239,6 @@ _styles: |
         <p>Presentation paper: [link]</p>
       </td>
     </tr>
-        <tr>
-      <td class="event">Presentation 8</td>
-      <td>MM/DD</td>
-      <td>Student paper presentations.<br><a href="#" aria-label="Presentation slides">[Slides]</a></td>
-      <td>
-        <p>Presentation paper: [link]</p>
-      </td>
-    </tr>
     <tr class="section-row">
       <td colspan="4">Applications</td>
     </tr>
