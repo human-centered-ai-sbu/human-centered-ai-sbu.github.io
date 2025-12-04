@@ -100,7 +100,7 @@ _styles: |
 <br>
 
 <!--- add intro text below -->
-<p>In this graduate-level course, we will learn how large language models are trained, evaluated, and adapted from a human-centered perspective. We will begin with an introduction to the transformer architecture and autoregressive language modeling. The first half of the course will focus on pre-training, with an emphasis on training data selection, model memorization, mid-training, and potential copyright issues. In the second half, we will explore post-training techniques and applications. This course will consist of lectures, readings, discussions, and student presentations on selected papers, along with a midterm exam and a final project.</p>
+<p>In this graduate-level course, we will learn how large language models are trained, evaluated, and adapted from a human-centered perspective. We will begin with an introduction to the transformer architecture and autoregressive language modeling. In the first few week of the course will focus on pre-training, with an emphasis on training data selection, model memorization, mid-training. Next we will focus on  post-training techniques and applications. Finally we will to explore topics on Generative AI and Fair Use, AI detection, Impacts of AI on mebtal health and wellbeing and AI Agents. This course will consist of lectures (10% grade for attendance), readings and discussions (10% grade on class participation), student presentations on selected papers (20% of the grade), along with a in-class midterm exam (15% of thev grade) and a final project (45% of the grade).</p>
 
 <p><span class="prereq-label">Prerequisites:</span> Knowledge of LLMs. Have taken NLP or AI.</p>
 
