@@ -109,7 +109,7 @@ _styles: |
   <ul>
     <li>Lectures: TBD</li>
     <li>Location: NCS 120</li>
-    <li>Device Policy: Use of Laptop during class is not allowed. Please engage with lectures. Using Ipad for taking notes is fine. If you must need laptop or special accomodation please email instructor</li>
+    <li>Device Policy: Use of Laptop during class is not allowed. Please engage with lectures. Using Ipad for taking notes is fine. If you must need laptop or special accomodation please email the instructor.</li>
   </ul>
 </div>
 
