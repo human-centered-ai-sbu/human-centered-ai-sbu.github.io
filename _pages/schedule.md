@@ -139,14 +139,12 @@ _styles: |
     <tr>
       <td class="event">Lecture 5</td>
       <td>MM/DD</td>
-      <td>Legal considerations and copyright issues.<br><a href="#" aria-label="Lecture 1 slides">[Slides]</a></td>
+      <td>Training data attribution.<br><a href="#" aria-label="Lecture 1 slides">[Slides]</a></td>
       <td>
         <p>Readings:</p>
         <ul>
-          <li><a href="https://arxiv.org/abs/2311.17035" target="_blank" rel="noopener">Scalable Extraction of Training Data from (Production) Language Models</a></li>
-          <li><a href="https://arxiv.org/pdf/2404.12590" target="_blank" rel="noopener">The Files are in the Computer: On Copyright, Memorization, and Generative AI</a></li>
-          <li><a href="https://www.science.org/doi/10.1126/science.adi0656" target="_blank" rel="noopener">Generative AI meets copyright</a></li>
-          <li><a href="https://www.bensobel.org/files/articles/Sobel_Elements-of-Style_38-HarvJLTech-49.pdf" target="_blank" rel="noopener">Elements of Style: Copyright, Similarity, and Generative AI</a></li>
+          <li><a href="https://arxiv.org/pdf/2410.17413" target="_blank" rel="noopener">Scalable Influence and Fact Tracing for Large Language Model Pretraining</a></li>
+          <li><a href="https://arxiv.org/abs/2504.07096" target="_blank" rel="noopener">OLMoTrace: Tracing Language Model Outputs Back to Trillions of Training Tokens</a></li>
         </ul>
       </td>
     </tr>
@@ -161,12 +159,11 @@ _styles: |
     <tr>
       <td class="event">Lecture 6</td>
       <td>MM/DD</td>
-      <td>Training data attribution.<br><a href="#" aria-label="Lecture 1 slides">[Slides]</a></td>
+      <td>Mid-training.<br><a href="#" aria-label="Lecture 1 slides">[Slides]</a></td>
       <td>
         <p>Readings:</p>
         <ul>
-          <li><a href="https://arxiv.org/pdf/2410.17413" target="_blank" rel="noopener">Scalable Influence and Fact Tracing for Large Language Model Pretraining</a></li>
-          <li><a href="https://arxiv.org/abs/2504.07096" target="_blank" rel="noopener">OLMoTrace: Tracing Language Model Outputs Back to Trillions of Training Tokens</a></li>
+          <li><a href="https://arxiv.org/pdf/2501.00656" target="_blank" rel="noopener">2 OLMo 2 Furious</a></li>
         </ul>
       </td>
     </tr>
@@ -178,14 +175,18 @@ _styles: |
         <p>Presentation paper: [link]</p>
       </td>
     </tr>
+    <tr class="section-row">
+      <td colspan="4">Post-training</td>
+    </tr>
     <tr>
       <td class="event">Lecture 7</td>
       <td>MM/DD</td>
-      <td>Mid-training.<br><a href="#" aria-label="Lecture 1 slides">[Slides]</a></td>
+      <td>Supervised Finetuning / Instruction tuning<br><a href="#" aria-label="Lecture 1 slides">[Slides]</a></td>
       <td>
         <p>Readings:</p>
         <ul>
-          <li><a href="https://arxiv.org/pdf/2501.00656" target="_blank" rel="noopener">2 OLMo 2 Furious</a></li>
+          <li><a href="https://openreview.net/forum?id=gEZrGCozdqR" target="_blank" rel="noopener">Finetuned Language Models are Zero-Shot Learners</a></li>
+          <li><a href="https://arxiv.org/pdf/2210.11416" target="_blank" rel="noopener">Scaling Instruction-Finetuned Language Models</a></li>
         </ul>
       </td>
     </tr>
@@ -197,8 +198,100 @@ _styles: |
         <p>Presentation paper: [link]</p>
       </td>
     </tr>
+    <tr>
+      <td class="event">Lecture 8</td>
+      <td>MM/DD</td>
+      <td>Alignment/RLHF<br><a href="#" aria-label="Lecture 1 slides">[Slides]</a></td>
+      <td>
+        <p>Readings:</p>
+        <ul>
+          <li><a href="https://arxiv.org/abs/2203.02155" target="_blank" rel="noopener">Training Language Models to Follow Instructions with Human Feedback (InstructGPT)</a></li>
+          <li><a href="https://arxiv.org/abs/2212.08073" target="_blank" rel="noopener">Constitutional AI: Harmlessness from AI Feedback</a></li>
+          <li><a href="https://arxiv.org/abs/2212.08073" target="_blank" rel="noopener">Direct Preference Optimization: Your Language Model is Secretly a Reward Model</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td class="event">Presentation 8</td>
+      <td>MM/DD</td>
+      <td>Student paper presentations.<br><a href="#" aria-label="Presentation slides">[Slides]</a></td>
+      <td>
+        <p>Presentation paper: [link]</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="event">Lecture 9</td>
+      <td>MM/DD</td>
+      <td>Reasoning and RLVR<br><a href="#" aria-label="Lecture 1 slides">[Slides]</a></td>
+      <td>
+        <p>Readings:</p>
+        <ul>
+          <li><a href="https://arxiv.org/pdf/2501.12948" target="_blank" rel="noopener">DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning</a></li>
+          <li><a href="https://arxiv.org/abs/2411.15124" target="_blank" rel="noopener">Tulu 3: Pushing Frontiers in Open Language Model Post-Training</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td class="event">Presentation 9</td>
+      <td>MM/DD</td>
+      <td>Student paper presentations.<br><a href="#" aria-label="Presentation slides">[Slides]</a></td>
+      <td>
+        <p>Presentation paper: [link]</p>
+      </td>
+    </tr>
+        <tr>
+      <td class="event">Presentation 8</td>
+      <td>MM/DD</td>
+      <td>Student paper presentations.<br><a href="#" aria-label="Presentation slides">[Slides]</a></td>
+      <td>
+        <p>Presentation paper: [link]</p>
+      </td>
+    </tr>
     <tr class="section-row">
-      <td colspan="4">Part 2: Post-training (TBD)</td>
+      <td colspan="4">Applications</td>
+    </tr>
+    <tr>
+      <td class="event">Lecture 10</td>
+      <td>MM/DD</td>
+      <td>Legal considerations and copyright issues.<br><a href="#" aria-label="Lecture 1 slides">[Slides]</a></td>
+      <td>
+        <p>Readings:</p>
+        <ul>
+          <li><a href="https://arxiv.org/abs/2311.17035" target="_blank" rel="noopener">Scalable Extraction of Training Data from (Production) Language Models</a></li>
+          <li><a href="https://arxiv.org/pdf/2404.12590" target="_blank" rel="noopener">The Files are in the Computer: On Copyright, Memorization, and Generative AI</a></li>
+          <li><a href="https://www.science.org/doi/10.1126/science.adi0656" target="_blank" rel="noopener">Generative AI meets copyright</a></li>
+          <li><a href="https://www.bensobel.org/files/articles/Sobel_Elements-of-Style_38-HarvJLTech-49.pdf" target="_blank" rel="noopener">Elements of Style: Copyright, Similarity, and Generative AI</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td class="event">Presentation 10</td>
+      <td>MM/DD</td>
+      <td>Student paper presentations.<br><a href="#" aria-label="Presentation slides">[Slides]</a></td>
+      <td>
+        <p>Presentation paper: [link]</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="event">Lecture 11</td>
+      <td>MM/DD</td>
+      <td>Idiosyncracies in AI generated outputs<br><a href="#" aria-label="Lecture 1 slides">[Slides]</a></td>
+      <td>
+        <p>Readings:</p>
+        <ul>
+          <li><a href="https://arxiv.org/abs/2409.14509" target="_blank" rel="noopener">Can AI writing be salvaged? Mitigating Idiosyncrasies and Improving Human-AI Alignment in the Writing Process through Edits</a></li>
+          <li><a href="https://arxiv.org/abs/2501.15654" target="_blank" rel="noopener">People who frequently use ChatGPT for writing tasks are accurate and robust detectors of AI-generated text</a></li>
+          <li><a href="https://www.science.org/doi/10.1126/sciadv.adn5290" target="_blank" rel="noopener">Generative AI enhances individual creativity but reduces the collective diversity of novel content</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td class="event">Presentation 11</td>
+      <td>MM/DD</td>
+      <td>Student paper presentations.<br><a href="#" aria-label="Presentation slides">[Slides]</a></td>
+      <td>
+        <p>Presentation paper: [link]</p>
+      </td>
     </tr>
   </tbody>
 </table>
