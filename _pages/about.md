@@ -102,14 +102,14 @@ _styles: |
 <!--- add intro text below -->
 <p>In this graduate-level course, we will learn how large language models are trained, evaluated, and adapted from a human-centered perspective. We will begin with an introduction to the transformer architecture and autoregressive language modeling. The first half of the course will focus on pre-training, with an emphasis on training data selection, model memorization, mid-training, and potential copyright issues. In the second half, we will explore post-training techniques and applications. This course will consist of lectures, readings, discussions, and student presentations on selected papers, along with a midterm exam and a final project.</p>
 
-<p><span class="prereq-label">Prerequisites:</span> TBD</p>
+<p><span class="prereq-label">Prerequisites:</span> Knowledge of LLMs. Have taken NLP or AI.</p>
 
 <div class="logistics">
   <p class="label">Logistics:</p>
   <ul>
     <li>Lectures: TBD</li>
-    <li>Location: TBD</li>
-    <li>Contact: TBD</li>
+    <li>Location: NCS 120</li>
+    <li>Device Policy: Use of Laptop during class is not allowed. Please engage with lectures. Using Ipad for taking notes is fine. If you must need laptop or special accomodation please email instructor</li>
   </ul>
 </div>
 
