@@ -107,7 +107,7 @@ _styles: |
 <div class="logistics">
   <p class="label">Logistics:</p>
   <ul>
-    <li>Lectures: TBD</li>
+    <li>Timing: Tuesday/Thursday 12:30-2:00 PM</li>
     <li>Location: NCS 120</li>
     <li>Device Policy: Use of Laptop during class is not allowed. Please engage with lectures. Using Ipad for taking notes is fine. If you must need laptop or special accomodation please email the instructor.</li>
   </ul>
