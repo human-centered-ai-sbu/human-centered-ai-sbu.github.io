@@ -44,8 +44,8 @@ _styles: |
   <h2>GenAI Policy</h2>
   <p>This course has a strict policy on the use of GenAI tools, and students are expected to adhere to it.</p>
   <ul>
-    <li>The use of GenAI tools for written assignments (e.g., paper writing and reviews) is strongly prohibited and considered as academic dishonesty. </li>
-    <li>The use of GenAI tools for brainstorming or ideation is tempting but that students need to be careful as AI ideas are homogenous. If you use AI for any brainstorming please indicate it to the TA</li>
+    <li>The use of GenAI tools for written assignments (e.g., paper writing and reviews) is strongly prohibited and considered as academic dishonesty. If you engage in this you will get a 0. </li>
+    <li>The use of GenAI tools for brainstorming or ideation is tempting, but students need to be careful as AI ideas have been shown to be homogenous. If you use AI for any brainstorming please indicate it to the TA</li>
     <li>Students who choose AI for editing or polishing text need to use it responsibly. Scientific writing is a skill to be learned and its good if you preseve your own voice. </li>
     <li> AI for coding or creating figures or data analysis is fine if verified properly.</li>
   </ul>
