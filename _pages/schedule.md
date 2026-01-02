@@ -53,8 +53,13 @@ _styles: |
   <tbody>
     <tr>
       <td class="event">Lecture 1</td>
-      <td>MM/DD</td>
-      <td>Intro: transformers and autoregressive language models.<br><a href="#" aria-label="Lecture 1 slides">[Slides]</a></td>
+      <td>01/27</td>
+      <td>Logistics and Explanation of course<br><a href="#" aria-label="Presentation slides">[Slides]</a></td>
+    </tr>
+    <tr>
+      <td class="event">Lecture 2</td>
+      <td>01/29</td>
+      <td>Intro: transformers and autoregressive language models.<br><a href="#" aria-label="Lecture 2 slides">[Slides]</a></td>
       <td>
         <p>Readings:</p>
         <ul>
@@ -62,14 +67,6 @@ _styles: |
           <li><a href="https://jalammar.github.io/illustrated-transformer/" target="_blank" rel="noopener">The Illustrated Transformer</a></li>
           <li><a href="https://proceedings.mlr.press/v162/wang22u/wang22u.pdf" target="_blank" rel="noopener">What Language Model Architecture and Pretraining Objective Work Best for Zero-Shot Generalization?</a></li>
         </ul>
-      </td>
-    </tr>
-    <tr>
-      <td class="event">Presentation 1</td>
-      <td>MM/DD</td>
-      <td>Student paper presentations.<br><a href="#" aria-label="Presentation slides">[Slides]</a></td>
-      <td>
-        <p>Presentation paper: [link]</p>
       </td>
     </tr>
     <tr class="section-row">
@@ -88,7 +85,7 @@ _styles: |
       </td>
     </tr>
     <tr>
-      <td class="event">Presentation 2</td>
+      <td class="event">Presentation 1</td>
       <td>MM/DD</td>
       <td>Student paper presentations.<br><a href="#" aria-label="Presentation slides">[Slides]</a></td>
       <td>
@@ -109,7 +106,7 @@ _styles: |
       </td>
     </tr>
     <tr>
-      <td class="event">Presentation 3</td>
+      <td class="event">Presentation 2</td>
       <td>MM/DD</td>
       <td>Student paper presentations.<br><a href="#" aria-label="Presentation slides">[Slides]</a></td>
       <td>
@@ -129,7 +126,7 @@ _styles: |
       </td>
     </tr>
     <tr>
-      <td class="event">Presentation 4</td>
+      <td class="event">Presentation 3</td>
       <td>MM/DD</td>
       <td>Student paper presentations.<br><a href="#" aria-label="Presentation slides">[Slides]</a></td>
       <td>
@@ -149,7 +146,7 @@ _styles: |
       </td>
     </tr>
     <tr>
-      <td class="event">Presentation 5</td>
+      <td class="event">Presentation 4</td>
       <td>MM/DD</td>
       <td>Student paper presentations.<br><a href="#" aria-label="Presentation slides">[Slides]</a></td>
       <td>
@@ -168,7 +165,7 @@ _styles: |
       </td>
     </tr>
     <tr>
-      <td class="event">Presentation 6</td>
+      <td class="event">Presentation 5</td>
       <td>MM/DD</td>
       <td>Student paper presentations.<br><a href="#" aria-label="Presentation slides">[Slides]</a></td>
       <td>
@@ -191,7 +188,7 @@ _styles: |
       </td>
     </tr>
     <tr>
-      <td class="event">Presentation 7</td>
+      <td class="event">Presentation 6</td>
       <td>MM/DD</td>
       <td>Student paper presentations.<br><a href="#" aria-label="Presentation slides">[Slides]</a></td>
       <td>
@@ -212,7 +209,7 @@ _styles: |
       </td>
     </tr>
     <tr>
-      <td class="event">Presentation 8</td>
+      <td class="event">Presentation 7</td>
       <td>MM/DD</td>
       <td>Student paper presentations.<br><a href="#" aria-label="Presentation slides">[Slides]</a></td>
       <td>
@@ -232,7 +229,7 @@ _styles: |
       </td>
     </tr>
     <tr>
-      <td class="event">Presentation 9</td>
+      <td class="event">Presentation 8</td>
       <td>MM/DD</td>
       <td>Student paper presentations.<br><a href="#" aria-label="Presentation slides">[Slides]</a></td>
       <td>
@@ -257,7 +254,7 @@ _styles: |
       </td>
     </tr>
     <tr>
-      <td class="event">Presentation 10</td>
+      <td class="event">Presentation 9</td>
       <td>MM/DD</td>
       <td>Student paper presentations.<br><a href="#" aria-label="Presentation slides">[Slides]</a></td>
       <td>
@@ -278,7 +275,7 @@ _styles: |
       </td>
     </tr>
     <tr>
-      <td class="event">Presentation 11</td>
+      <td class="event">Presentation 10</td>
       <td>MM/DD</td>
       <td>Student paper presentations.<br><a href="#" aria-label="Presentation slides">[Slides]</a></td>
       <td>
