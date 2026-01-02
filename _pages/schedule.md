@@ -52,12 +52,12 @@ _styles: |
   </thead>
   <tbody>
     <tr>
-      <td class="event">Lecture 1</td>
+      <td class="event">Intro Class</td>
       <td>01/27</td>
       <td>Logistics and Explanation of course<br><a href="#" aria-label="Presentation slides">[Slides]</a></td>
     </tr>
     <tr>
-      <td class="event">Lecture 2</td>
+      <td class="event">Lecture 1</td>
       <td>01/29</td>
       <td>Intro: transformers and autoregressive language models.<br><a href="#" aria-label="Lecture 2 slides">[Slides]</a></td>
       <td>
