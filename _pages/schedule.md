@@ -55,6 +55,7 @@ _styles: |
       <td class="event">Intro Class</td>
       <td>01/27</td>
       <td>Logistics and Explanation of course<br><a href="#" aria-label="Presentation slides">[Slides]</a></td>
+      <td></td>
     </tr>
     <tr>
       <td class="event">Lecture 1</td>
@@ -74,7 +75,7 @@ _styles: |
     </tr>
     <tr>
       <td class="event">Lecture 2</td>
-      <td>MM/DD</td>
+      <td>02/03</td>
       <td>What's the purpose of pre-training? What's in the pre-training dataset?<br><a href="#" aria-label="Lecture 1 slides">[Slides]</a></td>
       <td>
         <p>Readings:</p>
@@ -86,7 +87,7 @@ _styles: |
     </tr>
     <tr>
       <td class="event">Presentation 1</td>
-      <td>MM/DD</td>
+      <td>02/05</td>
       <td>Student paper presentations.<br><a href="#" aria-label="Presentation slides">[Slides]</a></td>
       <td>
         <p>Presentation paper: [link]</p>
@@ -94,7 +95,7 @@ _styles: |
     </tr>
     <tr>
       <td class="event">Lecture 3</td>
-      <td>MM/DD</td>
+      <td>02/10</td>
       <td>Constructing pre-training data smartly.<br><a href="#" aria-label="Lecture 1 slides">[Slides]</a></td>
       <td>
         <p>Readings:</p>
@@ -107,7 +108,7 @@ _styles: |
     </tr>
     <tr>
       <td class="event">Presentation 2</td>
-      <td>MM/DD</td>
+      <td>02/12</td>
       <td>Student paper presentations.<br><a href="#" aria-label="Presentation slides">[Slides]</a></td>
       <td>
         <p>Presentation paper: [link]</p>
@@ -115,7 +116,7 @@ _styles: |
     </tr>
     <tr>
       <td class="event">Lecture 4</td>
-      <td>MM/DD</td>
+      <td>02/17</td>
       <td>Model memorization.<br><a href="#" aria-label="Lecture 1 slides">[Slides]</a></td>
       <td>
         <p>Readings:</p>
@@ -127,7 +128,7 @@ _styles: |
     </tr>
     <tr>
       <td class="event">Presentation 3</td>
-      <td>MM/DD</td>
+      <td>02/19</td>
       <td>Student paper presentations.<br><a href="#" aria-label="Presentation slides">[Slides]</a></td>
       <td>
         <p>Presentation paper: [link]</p>
@@ -135,7 +136,7 @@ _styles: |
     </tr>
     <tr>
       <td class="event">Lecture 5</td>
-      <td>MM/DD</td>
+      <td>02/24</td>
       <td>Training data attribution.<br><a href="#" aria-label="Lecture 1 slides">[Slides]</a></td>
       <td>
         <p>Readings:</p>
@@ -147,7 +148,7 @@ _styles: |
     </tr>
     <tr>
       <td class="event">Presentation 4</td>
-      <td>MM/DD</td>
+      <td>02/26</td>
       <td>Student paper presentations.<br><a href="#" aria-label="Presentation slides">[Slides]</a></td>
       <td>
         <p>Presentation paper: [link]</p>
@@ -155,7 +156,7 @@ _styles: |
     </tr>
     <tr>
       <td class="event">Lecture 6</td>
-      <td>MM/DD</td>
+      <td>03/03</td>
       <td>Mid-training.<br><a href="#" aria-label="Lecture 1 slides">[Slides]</a></td>
       <td>
         <p>Readings:</p>
@@ -166,7 +167,7 @@ _styles: |
     </tr>
     <tr>
       <td class="event">Presentation 5</td>
-      <td>MM/DD</td>
+      <td>03/05</td>
       <td>Student paper presentations.<br><a href="#" aria-label="Presentation slides">[Slides]</a></td>
       <td>
         <p>Presentation paper: [link]</p>
@@ -177,7 +178,7 @@ _styles: |
     </tr>
     <tr>
       <td class="event">Lecture 7</td>
-      <td>MM/DD</td>
+      <td>03/10</td>
       <td>Supervised Finetuning / Instruction tuning<br><a href="#" aria-label="Lecture 1 slides">[Slides]</a></td>
       <td>
         <p>Readings:</p>
@@ -189,15 +190,27 @@ _styles: |
     </tr>
     <tr>
       <td class="event">Presentation 6</td>
-      <td>MM/DD</td>
+      <td>03/12</td>
       <td>Student paper presentations.<br><a href="#" aria-label="Presentation slides">[Slides]</a></td>
       <td>
         <p>Presentation paper: [link]</p>
       </td>
     </tr>
     <tr>
+      <td class="event">No class</td>
+      <td>03/17</td>
+      <td>No class (spring break)</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td class="event">No class</td>
+      <td>03/19</td>
+      <td>No class (spring break)</td>
+      <td></td>
+    </tr>
+    <tr>
       <td class="event">Lecture 8</td>
-      <td>MM/DD</td>
+      <td>03/24</td>
       <td>Alignment/RLHF<br><a href="#" aria-label="Lecture 1 slides">[Slides]</a></td>
       <td>
         <p>Readings:</p>
@@ -210,7 +223,7 @@ _styles: |
     </tr>
     <tr>
       <td class="event">Presentation 7</td>
-      <td>MM/DD</td>
+      <td>03/26</td>
       <td>Student paper presentations.<br><a href="#" aria-label="Presentation slides">[Slides]</a></td>
       <td>
         <p>Presentation paper: [link]</p>
@@ -218,7 +231,7 @@ _styles: |
     </tr>
     <tr>
       <td class="event">Lecture 9</td>
-      <td>MM/DD</td>
+      <td>03/31</td>
       <td>Reasoning and RLVR<br><a href="#" aria-label="Lecture 1 slides">[Slides]</a></td>
       <td>
         <p>Readings:</p>
@@ -230,7 +243,7 @@ _styles: |
     </tr>
     <tr>
       <td class="event">Presentation 8</td>
-      <td>MM/DD</td>
+      <td>04/02</td>
       <td>Student paper presentations.<br><a href="#" aria-label="Presentation slides">[Slides]</a></td>
       <td>
         <p>Presentation paper: [link]</p>
@@ -241,7 +254,7 @@ _styles: |
     </tr>
     <tr>
       <td class="event">Lecture 10</td>
-      <td>MM/DD</td>
+      <td>04/07</td>
       <td>Legal considerations and copyright issues.<br><a href="#" aria-label="Lecture 1 slides">[Slides]</a></td>
       <td>
         <p>Readings:</p>
@@ -255,7 +268,7 @@ _styles: |
     </tr>
     <tr>
       <td class="event">Presentation 9</td>
-      <td>MM/DD</td>
+      <td>04/09</td>
       <td>Student paper presentations.<br><a href="#" aria-label="Presentation slides">[Slides]</a></td>
       <td>
         <p>Presentation paper: [link]</p>
@@ -263,7 +276,7 @@ _styles: |
     </tr>
     <tr>
       <td class="event">Lecture 11</td>
-      <td>MM/DD</td>
+      <td>04/14</td>
       <td>Idiosyncracies in AI generated outputs<br><a href="#" aria-label="Lecture 1 slides">[Slides]</a></td>
       <td>
         <p>Readings:</p>
@@ -276,7 +289,64 @@ _styles: |
     </tr>
     <tr>
       <td class="event">Presentation 10</td>
-      <td>MM/DD</td>
+      <td>04/16</td>
+      <td>Student paper presentations.<br><a href="#" aria-label="Presentation slides">[Slides]</a></td>
+      <td>
+        <p>Presentation paper: [link]</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="event">Lecture 12</td>
+      <td>04/21</td>
+      <td>TBA<br><a href="#" aria-label="Lecture 12 slides">[Slides]</a></td>
+      <td>
+        <p>Readings:</p>
+        <ul>
+          <li>TBA</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td class="event">Presentation 11</td>
+      <td>04/23</td>
+      <td>Student paper presentations.<br><a href="#" aria-label="Presentation slides">[Slides]</a></td>
+      <td>
+        <p>Presentation paper: [link]</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="event">Lecture 13</td>
+      <td>04/28</td>
+      <td>TBA<br><a href="#" aria-label="Lecture 13 slides">[Slides]</a></td>
+      <td>
+        <p>Readings:</p>
+        <ul>
+          <li>TBA</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td class="event">Presentation 12</td>
+      <td>04/30</td>
+      <td>Student paper presentations.<br><a href="#" aria-label="Presentation slides">[Slides]</a></td>
+      <td>
+        <p>Presentation paper: [link]</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="event">Lecture 14</td>
+      <td>05/05</td>
+      <td>TBA<br><a href="#" aria-label="Lecture 14 slides">[Slides]</a></td>
+      <td>
+        <p>Readings:</p>
+        <ul>
+          <li>TBA</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td class="event">Presentation 13</td>
+      <td>05/07</td>
       <td>Student paper presentations.<br><a href="#" aria-label="Presentation slides">[Slides]</a></td>
       <td>
         <p>Presentation paper: [link]</p>
