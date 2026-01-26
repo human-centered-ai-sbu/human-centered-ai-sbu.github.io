@@ -122,17 +122,17 @@ _styles: |
       <div>
         <h3>Tuhin Chakrabarty</h3>
         <p class="staff-meta"><strong>Email:</strong> <a href="mailto:tchakrabarty@cs.stonybrook.edu">tchakrabarty@cs.stonybrook.edu</a></p>
-        <p class="staff-meta"><strong>Office hours:</strong> TBD</p>
-        <p class="staff-meta"><strong>Location:</strong> TBD</p>
+        <p class="staff-meta"><strong>Office hours:</strong> 3:30-4:30 PM Friday</p>
+        <p class="staff-meta"><strong>Location:</strong> Google Meet</p>
       </div>
     </div>
     <div class="staff-card">
-      <img class="staff-photo" src="{{ '/assets/img/person.png' | relative_url }}" alt="TA photo">
+      <img class="staff-photo" src="{{ '/assets/img/xinyue.png' | relative_url }}" alt="TA photo">
       <div>
-        <h3>TA</h3>
-        <p class="staff-meta"><strong>Email:</strong> <a href="mailto:ta@stonybrook.edu">ta@stonybrook.edu</a></p>
-        <p class="staff-meta"><strong>Office hours:</strong> TBD</p>
-        <p class="staff-meta"><strong>Location:</strong> TBD</p>
+        <h3>Xinyue Liu (TA)</h3>
+        <p class="staff-meta"><strong>Email:</strong> <a href="mailto:liu76@cs.stonybrook.edu">liu76@cs.stonybrook.edu</a></p>
+        <p class="staff-meta"><strong>Office hours:</strong> Thursday (TBD)</p>
+        <p class="staff-meta"><strong>Location:</strong> In Person (TBD)</p>
       </div>
     </div>
   </div>
