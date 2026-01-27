@@ -131,8 +131,8 @@ _styles: |
       <div>
         <h3>Xinyue Liu (TA)</h3>
         <p class="staff-meta"><strong>Email:</strong> <a href="mailto:liu76@cs.stonybrook.edu">liu76@cs.stonybrook.edu</a></p>
-        <p class="staff-meta"><strong>Office hours:</strong> Thursday (TBD)</p>
-        <p class="staff-meta"><strong>Location:</strong> In Person (TBD)</p>
+        <p class="staff-meta"><strong>Office hours:</strong> 5:00-6:00 PM Thursday</p>
+        <p class="staff-meta"><strong>Location:</strong> In Person (outside of NCS 159)</p>
       </div>
     </div>
   </div>
