@@ -21,7 +21,7 @@ _styles: |
 <p>Every week we will have a group of students (~4) present on a selected research paper. Each student in the group will be assigned an equally important role to explain, critique, and discuss the paper. Details of each role are provided below.</p>
 
 <div class="specialist-card">
-  <p><span class="role-label">Author of the paper (15min):</span> You are among the original authors of the paper. You will give a 10min short, high-quality presentation at a conference presenting the main contributions of the paper. While some assigned papers might be more technical than others, you should focus on high level aspects not details. </p>
+  <p><span class="role-label">Author of the paper (15min):</span> You are among the original authors of the paper. You will give a 15min short, high-quality presentation at a conference presenting the main contributions of the paper. While some assigned papers might be more technical than others, you should focus on high level aspects not details. </p>
 </div>
 
 <div class="specialist-card">
