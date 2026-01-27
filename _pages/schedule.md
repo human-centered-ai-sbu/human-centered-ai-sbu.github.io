@@ -162,6 +162,7 @@ _styles: |
         <p>Readings:</p>
         <ul>
           <li><a href="https://arxiv.org/pdf/2501.00656" target="_blank" rel="noopener">2 OLMo 2 Furious</a></li>
+          <li><a href="https://arxiv.org/abs/2510.14865" target="_blank" rel="noopener">Midtraining Bridges Pretraining and Posttraining Distributions</a></li>
         </ul>
       </td>
     </tr>
