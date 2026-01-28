@@ -39,6 +39,15 @@ _styles: |
     text-align: center;
     padding: 0.75rem;
   }
+  .schedule-table .deadline-row td {
+    background: rgba(0, 0, 0, 0.05);
+    font-weight: 700;
+    text-align: center;
+    padding: 0.75rem;
+  }
+  html[data-theme="dark"] .schedule-table .deadline-row td {
+    background: rgba(255, 255, 255, 0.06);
+  }
 ---
 
 <table class="schedule-table">
@@ -154,6 +163,9 @@ _styles: |
         <p>Presentation paper: [link]</p>
       </td>
     </tr>
+    <tr class="deadline-row">
+      <td colspan="4">02/26: Two-page Project Proposal Due</td>
+    </tr>
     <tr>
       <td class="event">Lecture 6</td>
       <td>03/03</td>
@@ -221,6 +233,9 @@ _styles: |
           <li><a href="https://arxiv.org/abs/2305.18290" target="_blank" rel="noopener">Direct Preference Optimization: Your Language Model is Secretly a Reward Model</a></li>
         </ul>
       </td>
+    </tr>
+    <tr class="deadline-row">
+      <td colspan="4">03/24: Midterm Report Due</td>
     </tr>
     <tr>
       <td class="event">Presentation 7</td>
@@ -344,6 +359,9 @@ _styles: |
           <li>TBA</li>
         </ul>
       </td>
+    </tr>
+    <tr class="deadline-row">
+      <td colspan="4">05/05: Final Report Due</td>
     </tr>
     <tr>
       <td class="event">Presentation 13</td>

@@ -33,9 +33,9 @@ _styles: |
   <h2>Course Structure &amp; Grading</h2>
   <p>This is a graduate-level course with regular lectures, readings, discussions, and student-led presentations.</p>
   <ul>
-    <li><span class="prereq-label">Readings:</span> There will be reading materials for each lecture. Students are expected to read through the materials <u>before</u> the lecture.</li>
+    <li><span class="prereq-label">Readings:</span> There will be reading materials for each lecture. Students are expected to read through the materials <u>before</u> the lecture. We will have quizzes on the readings for testing your understanding.</li>
     <li><span class="prereq-label">Exams:</span> There will be a midterm exam.</li>
-    <li><span class="prereq-label">Project:</span> There will be a final project.</li>
+    <li><span class="prereq-label">Project:</span> There will be a final project. The topic is open-ended and students are expected to work in groups (maximum of 4). Please use the <a href="https://github.com/ICLR/Master-Template/raw/master/iclr2025.zip" target="_blank" rel="noopener">ICLR template</a> for your proposal and reports.</li>
     <li><span class="prereq-label">Presentation:</span> Every week we will have a group of students (~4) present on a selected research paper. Each student in the group will be assigned a specialist role. Please see <a href="{{ '/specialist-role/' | relative_url }}">Specialist Role</a> for more details.</li>
   </ul>
 </div>
