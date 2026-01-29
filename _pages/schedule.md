@@ -63,13 +63,13 @@ _styles: |
     <tr>
       <td class="event">Intro Class</td>
       <td>01/27</td>
-      <td>Logistics and Explanation of course<br><a href="#" aria-label="Presentation slides">[Slides]</a></td>
+      <td>Logistics and Explanation of course<br></td>
       <td></td>
     </tr>
     <tr>
       <td class="event">Lecture 1</td>
       <td>01/29</td>
-      <td>Intro: transformers and autoregressive language models.<br><a href="#" aria-label="Lecture 2 slides">[Slides]</a></td>
+      <td>Intro: transformers and autoregressive language models<br><a href="#" aria-label="Lecture 2 slides">[Slides]</a></td>
       <td>
         <p>Readings:</p>
         <ul>
@@ -97,15 +97,13 @@ _styles: |
     <tr>
       <td class="event">Presentation 1</td>
       <td>02/05</td>
-      <td>Student paper presentations.<br><a href="#" aria-label="Presentation slides">[Slides]</a></td>
-      <td>
-        <p>Presentation paper: [link]</p>
-      </td>
+      <td>Student paper presentations<br></td>
+      <td></td>
     </tr>
     <tr>
       <td class="event">Lecture 3</td>
       <td>02/10</td>
-      <td>Constructing pre-training data smartly.<br><a href="#" aria-label="Lecture 1 slides">[Slides]</a></td>
+      <td>Constructing pre-training data smartly<br><a href="#" aria-label="Lecture 1 slides">[Slides]</a></td>
       <td>
         <p>Readings:</p>
         <ul>
@@ -118,15 +116,13 @@ _styles: |
     <tr>
       <td class="event">Presentation 2</td>
       <td>02/12</td>
-      <td>Student paper presentations.<br><a href="#" aria-label="Presentation slides">[Slides]</a></td>
-      <td>
-        <p>Presentation paper: [link]</p>
-      </td>
+      <td>Student paper presentations<br></td>
+      <td></td>
     </tr>
     <tr>
       <td class="event">Lecture 4</td>
       <td>02/17</td>
-      <td>Model memorization.<br><a href="#" aria-label="Lecture 1 slides">[Slides]</a></td>
+      <td>Model memorization<br><a href="#" aria-label="Lecture 1 slides">[Slides]</a></td>
       <td>
         <p>Readings:</p>
         <ul>
@@ -138,15 +134,13 @@ _styles: |
     <tr>
       <td class="event">Presentation 3</td>
       <td>02/19</td>
-      <td>Student paper presentations.<br><a href="#" aria-label="Presentation slides">[Slides]</a></td>
-      <td>
-        <p>Presentation paper: [link]</p>
-      </td>
+      <td>Student paper presentations<br></td>
+      <td></td>
     </tr>
     <tr>
       <td class="event">Lecture 5</td>
       <td>02/24</td>
-      <td>Training data attribution.<br><a href="#" aria-label="Lecture 1 slides">[Slides]</a></td>
+      <td>Training data attribution<br><a href="#" aria-label="Lecture 1 slides">[Slides]</a></td>
       <td>
         <p>Readings:</p>
         <ul>
@@ -158,10 +152,8 @@ _styles: |
     <tr>
       <td class="event">Presentation 4</td>
       <td>02/26</td>
-      <td>Student paper presentations.<br><a href="#" aria-label="Presentation slides">[Slides]</a></td>
-      <td>
-        <p>Presentation paper: [link]</p>
-      </td>
+      <td>Student paper presentations<br></td>
+      <td></td>
     </tr>
     <tr class="deadline-row">
       <td colspan="4">02/26: Two-page Project Proposal Due</td>
@@ -169,7 +161,7 @@ _styles: |
     <tr>
       <td class="event">Lecture 6</td>
       <td>03/03</td>
-      <td>Mid-training.<br><a href="#" aria-label="Lecture 1 slides">[Slides]</a></td>
+      <td>Mid-training<br><a href="#" aria-label="Lecture 1 slides">[Slides]</a></td>
       <td>
         <p>Readings:</p>
         <ul>
@@ -181,10 +173,8 @@ _styles: |
     <tr>
       <td class="event">Presentation 5</td>
       <td>03/05</td>
-      <td>Student paper presentations.<br><a href="#" aria-label="Presentation slides">[Slides]</a></td>
-      <td>
-        <p>Presentation paper: [link]</p>
-      </td>
+      <td>Student paper presentations<br></td>
+      <td></td>
     </tr>
     <tr class="section-row">
       <td colspan="4">Post-training</td>
@@ -204,10 +194,8 @@ _styles: |
     <tr>
       <td class="event">Presentation 6</td>
       <td>03/12</td>
-      <td>Student paper presentations.<br><a href="#" aria-label="Presentation slides">[Slides]</a></td>
-      <td>
-        <p>Presentation paper: [link]</p>
-      </td>
+      <td>Student paper presentations<br></td>
+      <td></td>
     </tr>
     <tr>
       <td class="event">No class</td>
@@ -240,10 +228,8 @@ _styles: |
     <tr>
       <td class="event">Presentation 7</td>
       <td>03/26</td>
-      <td>Student paper presentations.<br><a href="#" aria-label="Presentation slides">[Slides]</a></td>
-      <td>
-        <p>Presentation paper: [link]</p>
-      </td>
+      <td>Student paper presentations<br></td>
+      <td></td>
     </tr>
     <tr>
       <td class="event">Lecture 9</td>
@@ -260,10 +246,8 @@ _styles: |
     <tr>
       <td class="event">Presentation 8</td>
       <td>04/02</td>
-      <td>Student paper presentations.<br><a href="#" aria-label="Presentation slides">[Slides]</a></td>
-      <td>
-        <p>Presentation paper: [link]</p>
-      </td>
+      <td>Student paper presentations<br></td>
+      <td></td>
     </tr>
     <tr class="section-row">
       <td colspan="4">Applications</td>
@@ -271,7 +255,7 @@ _styles: |
     <tr>
       <td class="event">Lecture 10</td>
       <td>04/07</td>
-      <td>Legal considerations and copyright issues.<br><a href="#" aria-label="Lecture 1 slides">[Slides]</a></td>
+      <td>Legal considerations and copyright issues<br><a href="#" aria-label="Lecture 1 slides">[Slides]</a></td>
       <td>
         <p>Readings:</p>
         <ul>
@@ -285,10 +269,8 @@ _styles: |
     <tr>
       <td class="event">Presentation 9</td>
       <td>04/09</td>
-      <td>Student paper presentations.<br><a href="#" aria-label="Presentation slides">[Slides]</a></td>
-      <td>
-        <p>Presentation paper: [link]</p>
-      </td>
+      <td>Student paper presentations<br></td>
+      <td></td>
     </tr>
     <tr>
       <td class="event">Lecture 11</td>
@@ -306,48 +288,44 @@ _styles: |
     <tr>
       <td class="event">Presentation 10</td>
       <td>04/16</td>
-      <td>Student paper presentations.<br><a href="#" aria-label="Presentation slides">[Slides]</a></td>
-      <td>
-        <p>Presentation paper: [link]</p>
-      </td>
+      <td>Student paper presentations<br></td>
+      <td></td>
     </tr>
     <tr>
       <td class="event">Lecture 12</td>
       <td>04/21</td>
-      <td>TBA<br><a href="#" aria-label="Lecture 12 slides">[Slides]</a></td>
+      <td>Guest lecture from Niranjan Balasubramanian<br><a href="#" aria-label="Lecture 12 slides">[Slides]</a></td>
       <td>
         <p>Readings:</p>
         <ul>
-          <li>TBA</li>
+          <li><a href="https://arxiv.org/abs/2412.14161" target="_blank" rel="noopener">TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks</a></li>
+          <li><a href="https://arxiv.org/abs/2307.13854" target="_blank" rel="noopener">WebArena: A Realistic Web Environment for Building Autonomous Agents</a></li>
         </ul>
       </td>
     </tr>
     <tr>
       <td class="event">Presentation 11</td>
       <td>04/23</td>
-      <td>Student paper presentations.<br><a href="#" aria-label="Presentation slides">[Slides]</a></td>
-      <td>
-        <p>Presentation paper: [link]</p>
-      </td>
+      <td>Student paper presentations<br></td>
+      <td></td>
     </tr>
     <tr>
       <td class="event">Lecture 13</td>
       <td>04/28</td>
-      <td>TBA<br><a href="#" aria-label="Lecture 13 slides">[Slides]</a></td>
+      <td>Impact of AI on mental health and well-being<br><a href="#" aria-label="Lecture 13 slides">[Slides]</a></td>
       <td>
         <p>Readings:</p>
         <ul>
-          <li>TBA</li>
+          <li><a href="https://arxiv.org/abs/2506.12605" target="_blank" rel="noopener">The Rise of AI Companions: How Human-Chatbot Relationships Influence Well-Being</a></li>
+          <li><a href="https://arxiv.org/abs/2509.11391" target="_blank" rel="noopener">"My Boyfriend is AI": A Computational Analysis of Human-AI Companionship in Reddit's AI Community</a></li>
         </ul>
       </td>
     </tr>
     <tr>
       <td class="event">Presentation 12</td>
       <td>04/30</td>
-      <td>Student paper presentations.<br><a href="#" aria-label="Presentation slides">[Slides]</a></td>
-      <td>
-        <p>Presentation paper: [link]</p>
-      </td>
+      <td>Student paper presentations<br></td>
+      <td></td>
     </tr>
     <tr>
       <td class="event">Lecture 14</td>
@@ -366,10 +344,8 @@ _styles: |
     <tr>
       <td class="event">Presentation 13</td>
       <td>05/07</td>
-      <td>Student paper presentations.<br><a href="#" aria-label="Presentation slides">[Slides]</a></td>
-      <td>
-        <p>Presentation paper: [link]</p>
-      </td>
+      <td>Student paper presentations<br></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
