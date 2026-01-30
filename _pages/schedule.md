@@ -63,13 +63,13 @@ _styles: |
     <tr>
       <td class="event">Intro Class</td>
       <td>01/27</td>
-      <td>Logistics and Explanation of course<br></td>
+      <td>Logistics and Explanation of course<br><a href="https://docs.google.com/presentation/d/1SC05Hwx4C_Zq7n5LibkMWhrUYubFFJXBo6OITzHpFNY/edit?usp=sharing" aria-label="Intro slides">[Slides]</a></td>
       <td></td>
     </tr>
     <tr>
       <td class="event">Lecture 1</td>
       <td>01/29</td>
-      <td>Intro: transformers and autoregressive language models<br><a href="#" aria-label="Lecture 2 slides">[Slides]</a></td>
+      <td>Intro: transformers and autoregressive language models<br><a href="https://docs.google.com/presentation/d/1pCfH3aFLPYRKeqEOgLFVVnAGGD2w6RYmPNzLk2Le2KA/edit?usp=sharing" aria-label="Lecture 1 slides">[Slides]</a></td>
       <td>
         <p>Readings:</p>
         <ul>
