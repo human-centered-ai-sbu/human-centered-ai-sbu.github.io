@@ -85,7 +85,7 @@ _styles: |
     <tr>
       <td class="event">Lecture 2</td>
       <td>02/03</td>
-      <td>What's the purpose of pre-training? What's in the pre-training dataset?<br><a href="#" aria-label="Lecture 1 slides">[Slides]</a></td>
+      <td>What's the purpose of pre-training? What's in the pre-training dataset?<br><a href="https://docs.google.com/presentation/d/1qkzzx_4263g9M8CPmX-C157inQSkDfpFZD98JTsaSjU/edit?usp=sharing" aria-label="Lecture 2 slides">[Slides]</a></td>
       <td>
         <p>Readings:</p>
         <ul>
