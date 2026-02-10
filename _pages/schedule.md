@@ -103,7 +103,7 @@ _styles: |
     <tr>
       <td class="event">Lecture 3</td>
       <td>02/10</td>
-      <td>Constructing pre-training data smartly<br><a href="#" aria-label="Lecture 1 slides">[Slides]</a></td>
+      <td>Constructing pre-training data smartly<br><a href="https://docs.google.com/presentation/d/1yoSl4-RMJMiv2qB1Ba_vK-t7ZdPk0Fd6KHaYyeh59uU/edit?usp=sharing" aria-label="Lecture 3 slides">[Slides]</a></td>
       <td>
         <p>Readings:</p>
         <ul>
