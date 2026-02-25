@@ -122,7 +122,7 @@ _styles: |
     <tr>
       <td class="event">Lecture 4</td>
       <td>02/17</td>
-      <td>Model memorization<br><a href="#" aria-label="Lecture 1 slides">[Slides]</a></td>
+      <td>Model memorization<br><a href="https://docs.google.com/presentation/d/1zHKaX_5VG4k-3NtmCB1OMixI9nYcy18FJY7cyAaRoXw/edit?usp=sharing" aria-label="Lecture 4 slides">[Slides]</a></td>
       <td>
         <p>Readings:</p>
         <ul>
