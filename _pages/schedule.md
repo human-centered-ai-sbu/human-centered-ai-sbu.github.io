@@ -161,7 +161,7 @@ _styles: |
     <tr>
       <td class="event">Lecture 6</td>
       <td>03/03</td>
-      <td>Mid-training<br><a href="#" aria-label="Lecture 1 slides">[Slides]</a></td>
+      <td>Mid-training<br><a href="https://docs.google.com/presentation/d/1bRz3zRmnoJblJJph8Z5cW4K0gmh4pmJUHgK896VUZjA/edit?usp=sharing" aria-label="Lecture 6 slides">[Slides]</a></td>
       <td>
         <p>Readings:</p>
         <ul>
