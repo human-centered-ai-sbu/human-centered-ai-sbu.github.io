@@ -182,7 +182,7 @@ _styles: |
     <tr>
       <td class="event">Lecture 7</td>
       <td>03/10</td>
-      <td>Supervised Finetuning / Instruction tuning<br><a href="#" aria-label="Lecture 1 slides">[Slides]</a></td>
+      <td>Supervised Finetuning / Instruction tuning<br><a href="https://docs.google.com/presentation/d/1wC-9PIHuaJyerRTUMCSvsDo5Mn94fTii6Pt7AxBwmRA/edit?slide=id.g3ce745c85fd_2_200#slide=id.g3ce745c85fd_2_200" aria-label="Lecture 7 slides">[Slides]</a></td>
       <td>
         <p>Readings:</p>
         <ul>
