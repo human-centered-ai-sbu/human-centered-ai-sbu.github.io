@@ -212,7 +212,7 @@ _styles: |
     <tr>
       <td class="event">Lecture 8</td>
       <td>03/24</td>
-      <td>Alignment/RLHF<br><a href="#" aria-label="Lecture 1 slides">[Slides]</a></td>
+      <td>Alignment/RLHF<br><a href="https://docs.google.com/presentation/d/1dKvElHvGCPcK9NLN9JFyHcWuhO8uFsvH3Q26VimWcHQ/edit?usp=sharing" aria-label="Lecture 8 slides">[Slides]</a></td>
       <td>
         <p>Readings:</p>
         <ul>
