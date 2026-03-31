@@ -259,6 +259,7 @@ _styles: |
       <td>
         <p>Readings:</p>
         <ul>
+          <li><a href="https://arxiv.org/abs/2603.20957" target="_blank" rel="noopener">Alignment Whack-a-Mole : Finetuning Activates Verbatim Recall of Copyrighted Books in Large Language Models</a></li>
           <li><a href="https://arxiv.org/abs/2311.17035" target="_blank" rel="noopener">Scalable Extraction of Training Data from (Production) Language Models</a></li>
           <li><a href="https://arxiv.org/pdf/2404.12590" target="_blank" rel="noopener">The Files are in the Computer: On Copyright, Memorization, and Generative AI</a></li>
           <li><a href="https://www.science.org/doi/10.1126/science.adi0656" target="_blank" rel="noopener">Generative AI meets copyright</a></li>
