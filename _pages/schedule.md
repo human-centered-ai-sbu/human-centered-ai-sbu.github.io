@@ -234,7 +234,7 @@ _styles: |
     <tr>
       <td class="event">Lecture 9</td>
       <td>03/31</td>
-      <td>Reasoning and RLVR<br><a href="#" aria-label="Lecture 1 slides">[Slides]</a></td>
+      <td>Reasoning and RLVR<br><a href="https://docs.google.com/presentation/d/1YzEGm-QBe8nhwbXzdMh1WXY6f12pBDvNeh_XqquM_s4/edit?usp=sharing" aria-label="Lecture 9 slides">[Slides]</a></td>
       <td>
         <p>Readings:</p>
         <ul>
