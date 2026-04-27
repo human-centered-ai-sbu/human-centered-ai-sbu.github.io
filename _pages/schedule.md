@@ -255,7 +255,7 @@ _styles: |
     <tr>
       <td class="event">Lecture 10</td>
       <td>04/07</td>
-      <td>Legal considerations and copyright issues<br><a href="#" aria-label="Lecture 1 slides">[Slides]</a></td>
+      <td>Legal considerations and copyright issues<br><a href="https://docs.google.com/presentation/d/1ZbK-JduSdwIHStfq90QC0H4skpnNpLrqGaV1DCi-EzM/edit?usp=sharing" aria-label="Lecture 10 slides">[Slides]</a></td>
       <td>
         <p>Readings:</p>
         <ul>
@@ -276,7 +276,7 @@ _styles: |
     <tr>
       <td class="event">Lecture 11</td>
       <td>04/14</td>
-      <td>Idiosyncracies in AI generated outputs<br><a href="#" aria-label="Lecture 1 slides">[Slides]</a></td>
+      <td>Idiosyncracies in AI generated outputs<br><a href="https://docs.google.com/presentation/d/1xS2Vhz7L9J-Zyh5P1ZWeY4LyndhVLnAwjrKJHdkTlZg/edit?usp=sharing" aria-label="Lecture 11 slides">[Slides]</a></td>
       <td>
         <p>Readings:</p>
         <ul>
