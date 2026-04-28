@@ -329,23 +329,18 @@ _styles: |
       <td></td>
     </tr>
     <tr>
-      <td class="event">Lecture 14</td>
+      <td class="event">Presentation 13</td>
       <td>05/05</td>
-      <td>TBA<br><a href="#" aria-label="Lecture 14 slides">[Slides]</a></td>
-      <td>
-        <p>Readings:</p>
-        <ul>
-          <li>TBA</li>
-        </ul>
-      </td>
+      <td>Final project presentation (1)<br></td>
+      <td></td>
     </tr>
     <tr class="deadline-row">
       <td colspan="4">05/05: Final Report Due</td>
     </tr>
     <tr>
-      <td class="event">Presentation 13</td>
+      <td class="event">Presentation 14</td>
       <td>05/07</td>
-      <td>Student paper presentations<br></td>
+      <td>Final project presentation (2)<br></td>
       <td></td>
     </tr>
   </tbody>
